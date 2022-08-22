@@ -1,44 +1,27 @@
-# Box Vagrant usada no curso de Rails 5.x
+# Crypto Wallet - Ruby On Rails 5.x
 
-Para usar essa box você precisa instalar o:
+O Crypto Wallet é uma aplicação de registro de crypto moedas e seus tipos desenvolvida durante o curso Ruby On Rails 5x ministrado pelo Jackson Pires.
 
-- VirtualBox (https://www.virtualbox.org/)
-- Vagrant (https://www.vagrantup.com/)
-- Git for Windows (somente para usuários Windows - https://gitforwindows.org/)
-
-## Após a instalação dos itens acima, siga os passos abaixo, usando um terminal.
-
-1- Instale o plugin do vagrant
-```
-vagrant plugin install vagrant-vbguest
-```
-
-2- Clone esse repositório e entre na pasta
-```
-git clone https://github.com/jacksonpires/curso-rails
-cd curso-rails
-```
-
-3- Inicie a box
-```
-vagrant up
-```
-
-4- Acesse o Cloud9 em **http://localhost:8181**  ou use o **vagrant ssh** para acessar a box via ssh.
-
-## Dicas de comandos para gerir sua box
-
-- Para pausar a box
-```
-vagrant suspend
-```
-
-- Para iniciar/levantar a box
-```
-vagrant up
-```
-
-- Para parar a box
-```
-vagrant halt
-```
+## 📕Aprendizados: 
+- [x] Conceitos Básicos de Ruby.
+- [x] Configuração do ambiente de desenvolvimento.
+- [x] Ruby, RVM, IRB e Pry.
+- [x] Bundler.
+- [x] Versionamento de Gems.
+- [x] Prototipação e modelagem da DB.
+- [x] Fluxo MVC
+- [x] CRUD com Scaffold
+- [x] Migrations e ORM
+- [x] Ambientes do Rails
+- [x] Helpers
+- [x] Rails Console
+- [x] Variáveis de instância/sessão no Rails
+- [x] Query Params para Request
+- [x] Partials, Layouts e Rake Tasks.
+- [x] Associações "belongs_to" & "has_many"
+- [x] YAML
+- [x] Yarn
+- [x] i18n
+- [x] Cookies e Sessions
+- [x] Asset Pipeline
+- [x] Bootstrap
