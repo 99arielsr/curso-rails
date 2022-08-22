@@ -25,3 +25,4 @@ O Crypto Wallet é uma aplicação de registro de crypto moedas e seus tipos des
 - [x] Cookies e Sessions
 - [x] Asset Pipeline
 - [x] Bootstrap
+- [x] Active Records
