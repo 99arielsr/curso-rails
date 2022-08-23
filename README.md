@@ -1,4 +1,4 @@
-# Crypto Wallet - Ruby On Rails 5.x
+# Crypto Wallet - Ruby On Rails 5.x 💎 🔴
 
 O Crypto Wallet é uma aplicação de registro de crypto moedas e seus tipos desenvolvida durante o curso Ruby On Rails 5x ministrado pelo Jackson Pires.
 
